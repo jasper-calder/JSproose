@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jasper. I'm a 1B Systems Design Engineering Student at the University of Waterloo currently seeking a Fall 2022 internship.
-- 👀 I’m interested in the 3D modeling and rendering pipeline, web development (Javascript, HTML, CSS), and Data Science (Python: Matplotlib, Pandas, scikit-learn, TensorFlow)
-- 🌱 I’m currently learning C++ (OpenGL, Qt), C# (Unity), and 3D Modeling (Blender, Fusion 360)
-- 💞️ I’m looking to collaborate on any project involving 3D modeling or rendering.
+- 👋 Hi, I’m Jasper. I'm a Systems Design Engineering Student at the University of Waterloo currently seeking a Spring 2023 internship
+- 👀 I’m interested in the 3D modeling, animation, the VFX pipeline, graphics programming, and web development (React, Node, MongoDB, Express)
+- 🌱 I’m proficient in C++ (OpenGL, Qt, GTest, ), , and 3D creation softwares (Blender, Fusion 360)
+- 💞️ I'm currently exploring ray marching and other real-time rendering techniques
 - 📫 Reach me at jmcalder@uwaterloo.ca
 
 <!---
